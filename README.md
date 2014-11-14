@@ -12,10 +12,10 @@ Scaricare ed installare i seguenti software:
 #### NOTA: 
 Di seguito sono riporati ulteriori strumenti opzionali per seguire in maniera completa il workflow della lezione.  
 Per chi volesse quindi il consiglio è di scaricare ed installare anche i seguenti:  
-- **Utenti Windows**
-- [Python](https://www.python.org/downloads/windows/) (versione 2.7). Scaricare l'installer (.exe), lanciarlo ed installare il tutto. Ricordarsi poi di linkare l'interprete python nel [FILE PATH!](https://docs.python.org/2/using/windows.html)
-- [MBUtil](https://github.com/mapbox/mbutil)
 
+- **Utenti Windows**
+- [Python](https://www.python.org/downloads/windows/) (versione 2.7). Scaricare l'installer (.exe), lanciarlo ed installare il tutto. Ricordarsi poi di linkare l'interprete python nel [FILE PATH!](https://docs.python.org/2/using/windows.html)  
+- [MBUtil](https://github.com/mapbox/mbutil)
 
 - **Utenti Mac/Linux**
 Una versione di Python è già installata di default ed accesibile tramite terminale(bash). Installare solamente [MBUtil](https://github.com/mapbox/mbutil).
