@@ -20,7 +20,7 @@ Per i più volenterosi il consiglio è quindi di scaricare ed installare anche i
 - **Utenti Mac/Linux**  
 Una versione di Python è già installata di default ed accessibile tramite terminale(bash). Installare solamente [MBUtil](https://github.com/mapbox/mbutil).
 
-Nel caso ci fossero problemi con l'installazione, ed avendo già effettuato numerose et approfondite [ricerche online](http://lmgtfy.com/), contattami al seguente indirizzo email: <mic.ferretti@gmail.com>
+Nel caso ci fossero problemi con l'installazione potete contattarmi seguente indirizzo email: <mic.ferretti@gmail.com>
 
 
 ## Presentazione:
