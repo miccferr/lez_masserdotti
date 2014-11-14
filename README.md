@@ -10,8 +10,8 @@ Scaricare ed installare i seguenti software:
 - Suite per disegno cartografico digitale: [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#darwin)
 - Editor di testo : [Sublime Text](http://www.sublimetext.com/)
 #### NOTA: 
-Di seguito sono riporati ulteriori strumenti opzionali per seguire in maniera completa il workflow della lezione.  
-Per chi volesse quindi il consiglio è di scaricare ed installare anche i seguenti:  
+Di seguito sono riporati ulteriori strumenti (opzionali) per seguire in maniera completa il workflow esposto durante la lezione.  
+Per i più volenterosi il consiglio è quindi di scaricare ed installare anche i seguenti:  
 
 - **Utenti Windows**
 	- [Python](https://www.python.org/downloads/windows/) (versione 2.7). Scaricare l'installer (.exe), lanciarlo ed installare il tutto. Ricordarsi poi di linkare l'interprete python nel [FILE PATH!](https://docs.python.org/2/using/windows.html)  
