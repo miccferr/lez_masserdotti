@@ -6,8 +6,8 @@
 ## Software per la lezione:
 
 Scaricare ed installare i seguenti software:
-
-- Suite per disegno cartografico digitale: [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#darwin)
+<!-- [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#darwin) -->
+- Suite per disegno cartografico digitale: [TileMill](https://www.mapbox.com/tilemill/)
 - Editor di testo : [Sublime Text](http://www.sublimetext.com/)
 #### NOTA: 
 Di seguito sono riporati ulteriori strumenti (opzionali) per seguire in maniera completa il workflow esposto durante la lezione.  
