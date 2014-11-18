@@ -1,0 +1,1083 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-11-18T23:01:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/303493370",
+      "properties": {
+        "@id": "node/303493370",
+        "amenity": "townhall",
+        "created_by": "Potlatch 0.10d",
+        "name": "Municipio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4530101,
+          45.5134249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332482690",
+      "properties": {
+        "@id": "node/332482690",
+        "amenity": "townhall",
+        "name": "Municipio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5200028,
+          45.6100087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332491154",
+      "properties": {
+        "@id": "node/332491154",
+        "amenity": "townhall",
+        "name": "Comune di Grezzago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4943738,
+          45.5915307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332494013",
+      "properties": {
+        "@id": "node/332494013",
+        "amenity": "townhall",
+        "created_by": "Potlatch 0.10f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4888978,
+          45.5831395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/332551676",
+      "properties": {
+        "@id": "node/332551676",
+        "amenity": "townhall",
+        "created_by": "Potlatch 0.10f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5286851,
+          45.6090448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/352932451",
+      "properties": {
+        "@id": "node/352932451",
+        "amenity": "townhall",
+        "name": "Comune di Gaggiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0340648,
+          45.4062518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/389841119",
+      "properties": {
+        "@id": "node/389841119",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2345399,
+          45.6778281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/446412250",
+      "properties": {
+        "@id": "node/446412250",
+        "amenity": "townhall",
+        "name": "Bereguardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0261418,
+          45.2574374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/548258601",
+      "properties": {
+        "@id": "node/548258601",
+        "amenity": "townhall",
+        "name": "Municipio di Cesate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0754654,
+          45.5951798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/871761683",
+      "properties": {
+        "@id": "node/871761683",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8296669,
+          45.4674915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/906715851",
+      "properties": {
+        "@id": "node/906715851",
+        "amenity": "townhall",
+        "name": "Municipio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4463823,
+          45.5410517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/926915655",
+      "properties": {
+        "@id": "node/926915655",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9219586,
+          45.4676672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1270105218",
+      "properties": {
+        "@id": "node/1270105218",
+        "amenity": "townhall",
+        "name": "Municipio di Solaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0791542,
+          45.6166021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1285636229",
+      "properties": {
+        "@id": "node/1285636229",
+        "addr:housename": "Municipio",
+        "addr:housenumber": "4",
+        "addr:postcode": "21057",
+        "addr:street": "Via Luigia Greppi",
+        "amenity": "townhall",
+        "name": "Municipio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8886507,
+          45.6295793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1301164929",
+      "properties": {
+        "@id": "node/1301164929",
+        "amenity": "townhall",
+        "int_name": "Limbiate's Town Hall",
+        "name": "Comune di Limbiate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1237575,
+          45.6034137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1307522981",
+      "properties": {
+        "@id": "node/1307522981",
+        "amenity": "townhall",
+        "name": "Palazzo Comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9497482,
+          45.6161382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1315131584",
+      "properties": {
+        "@id": "node/1315131584",
+        "amenity": "townhall",
+        "name": "Municipio di Origgio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0178771,
+          45.5996841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1341080843",
+      "properties": {
+        "@id": "node/1341080843",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0337293,
+          45.4466284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1369690433",
+      "properties": {
+        "@id": "node/1369690433",
+        "amenity": "townhall",
+        "name": "Municipio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9980123,
+          45.5264609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1413744237",
+      "properties": {
+        "@id": "node/1413744237",
+        "amenity": "townhall",
+        "name": "Comune di Basiglio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1580813,
+          45.3615261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1573013899",
+      "properties": {
+        "@id": "node/1573013899",
+        "addr:housenumber": "1",
+        "addr:postcode": "22069",
+        "addr:street": "Piazza G. Vincenzi",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0501299,
+          45.6697477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1603180469",
+      "properties": {
+        "@id": "node/1603180469",
+        "addr:housename": "Municipio",
+        "addr:postcode": "20876",
+        "addr:street": "Via Santuario, 6",
+        "amenity": "townhall",
+        "name": "Municipio",
+        "source": "http://www.comune.ornago.mb.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4219565,
+          45.5983246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1709715410",
+      "properties": {
+        "@id": "node/1709715410",
+        "amenity": "townhall",
+        "name": "Comune di Liscate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4092291,
+          45.480878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1729683352",
+      "properties": {
+        "@id": "node/1729683352",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9927089,
+          45.2885408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1740471564",
+      "properties": {
+        "@id": "node/1740471564",
+        "amenity": "townhall",
+        "name": "Municipio di Seveso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.138598,
+          45.6472035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1771754706",
+      "properties": {
+        "@id": "node/1771754706",
+        "amenity": "townhall",
+        "name": "Municipio di Paderno Dugnano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1661121,
+          45.5683822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1835101540",
+      "properties": {
+        "@id": "node/1835101540",
+        "amenity": "townhall",
+        "name": "Municipio di Novate Milanese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1349867,
+          45.5324919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1864082063",
+      "properties": {
+        "@id": "node/1864082063",
+        "alt_name": "Pioltello",
+        "amenity": "townhall",
+        "name": "comune di Pioltello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3290009,
+          45.4970001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1877403755",
+      "properties": {
+        "@id": "node/1877403755",
+        "amenity": "townhall",
+        "name": "Comune di Gerenzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9987854,
+          45.6388638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1913669529",
+      "properties": {
+        "@id": "node/1913669529",
+        "addr:city": "Cassano d'Adda",
+        "addr:housenumber": "1",
+        "addr:postcode": "20062",
+        "addr:street": "Piazza Matteotti",
+        "amenity": "townhall",
+        "name": "Palazzo Cornaggia - Medici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5208751,
+          45.5256147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1914163146",
+      "properties": {
+        "@id": "node/1914163146",
+        "amenity": "townhall",
+        "name": "Comune di Calvignasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0191865,
+          45.3329853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1927683921",
+      "properties": {
+        "@id": "node/1927683921",
+        "amenity": "townhall",
+        "name": "Municipio di Pregnana Milanese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0090851,
+          45.5168184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1973855904",
+      "properties": {
+        "@id": "node/1973855904",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0819739,
+          45.6622976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2010850136",
+      "properties": {
+        "@id": "node/2010850136",
+        "amenity": "townhall",
+        "name": "Comune di Treviolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.611224,
+          45.6715519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2037818226",
+      "properties": {
+        "@id": "node/2037818226",
+        "addr:housename": "2",
+        "addr:housenumber": "3",
+        "addr:postcode": "23875",
+        "addr:street": "Via Rimembranze",
+        "amenity": "townhall",
+        "name": "Comune di Osnago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3900086,
+          45.6770485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2153103599",
+      "properties": {
+        "@id": "node/2153103599",
+        "addr:housenumber": "4",
+        "addr:postcode": "20821",
+        "addr:street": "Piazza Municipio",
+        "amenity": "townhall",
+        "name": "Municipio di Meda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1567481,
+          45.66241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2153405118",
+      "properties": {
+        "@id": "node/2153405118",
+        "addr:housename": "Comune di Bellusco",
+        "addr:street": "Piazzale Kennedy",
+        "amenity": "townhall",
+        "name": "Comune di Bellusco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4178743,
+          45.6185385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2154039858",
+      "properties": {
+        "@id": "node/2154039858",
+        "amenity": "townhall",
+        "name": "Municipio Albiate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2611796,
+          45.6568245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2197353084",
+      "properties": {
+        "@id": "node/2197353084",
+        "addr:housenumber": "44",
+        "addr:street": "Via Po",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9940554,
+          45.2810827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2299771350",
+      "properties": {
+        "@id": "node/2299771350",
+        "amenity": "townhall",
+        "name": "Municipio di Carugate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.338377,
+          45.5490635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375853560",
+      "properties": {
+        "@id": "node/2375853560",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9507748,
+          45.5935328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375853574",
+      "properties": {
+        "@id": "node/2375853574",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9472772,
+          45.5913931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2418807307",
+      "properties": {
+        "@id": "node/2418807307",
+        "amenity": "townhall",
+        "name": "Municipio di Saronno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0362445,
+          45.6237559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2426548517",
+      "properties": {
+        "@id": "node/2426548517",
+        "amenity": "townhall",
+        "name": "Municipio di Zeccone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1996013,
+          45.2608078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2448587889",
+      "properties": {
+        "@id": "node/2448587889",
+        "amenity": "townhall",
+        "name": "Bornasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2188996,
+          45.2672042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2482068656",
+      "properties": {
+        "@id": "node/2482068656",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2351334,
+          45.2930483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2559671761",
+      "properties": {
+        "@id": "node/2559671761",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3982206,
+          45.417021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2614493891",
+      "properties": {
+        "@id": "node/2614493891",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1087362,
+          45.4318579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2656221887",
+      "properties": {
+        "@id": "node/2656221887",
+        "amenity": "townhall",
+        "name": "Provincia di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2195243,
+          45.467272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661710638",
+      "properties": {
+        "@id": "node/2661710638",
+        "addr:city": "Cuggiono",
+        "addr:street": "Piazza 25 aprile",
+        "amenity": "townhall",
+        "name": "Comune di Cuggiono"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.816585,
+          45.5040502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2707303607",
+      "properties": {
+        "@id": "node/2707303607",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3133698,
+          45.3072271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2719683198",
+      "properties": {
+        "@id": "node/2719683198",
+        "amenity": "townhall",
+        "name": "Comune di Milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1938524,
+          45.4861614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2720460894",
+      "properties": {
+        "@id": "node/2720460894",
+        "addr:city": "Landriano",
+        "addr:housenumber": "14",
+        "addr:postcode": "27015",
+        "addr:street": "Piazza Garibaldi",
+        "amenity": "townhall",
+        "name": "Municipio di Landriano",
+        "phone": "+39 0382 64001-2",
+        "website": "http://www.comune.landriano.pv.it/",
+        "wheelchair": "limited",
+        "wikipedia": "it:Landriano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.259408,
+          45.310614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2720643698",
+      "properties": {
+        "@id": "node/2720643698",
+        "addr:city": "Casaletto Lodigiano",
+        "addr:housenumber": "12",
+        "addr:postcode": "26852",
+        "addr:street": "Via Roma",
+        "amenity": "townhall",
+        "name": "Municipio Casaletto Lodigiano",
+        "phone": "+39 0371 71542",
+        "website": "http://www.comune.casalettolodigiano.lo.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3619004,
+          45.2931022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2721007869",
+      "properties": {
+        "@id": "node/2721007869",
+        "addr:city": "Caselle Lurani",
+        "addr:housenumber": "19",
+        "addr:postcode": "26853",
+        "addr:street": "Via Roma",
+        "amenity": "townhall",
+        "name": "Municipio di Caselle Lurani",
+        "phone": "+39 0371 96019",
+        "website": "http://www.comune.casellelurani.lo.it/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3586597,
+          45.2792442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2764057967",
+      "properties": {
+        "@id": "node/2764057967",
+        "amenity": "townhall",
+        "name": "Municipio di Cerro al Lambro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3441824,
+          45.3317642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2884223950",
+      "properties": {
+        "@id": "node/2884223950",
+        "amenity": "townhall",
+        "name": "Municipio di Casorezzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9036569,
+          45.5182538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2935130931",
+      "properties": {
+        "@id": "node/2935130931",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0259577,
+          45.5019518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2940755549",
+      "properties": {
+        "@id": "node/2940755549",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0892283,
+          45.5103788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3017576733",
+      "properties": {
+        "@id": "node/3017576733",
+        "amenity": "townhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4441301,
+          45.681422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3076309162",
+      "properties": {
+        "@id": "node/3076309162",
+        "amenity": "townhall",
+        "name": "Locate di Triulzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2219436,
+          45.3577244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3107561088",
+      "properties": {
+        "@id": "node/3107561088",
+        "amenity": "townhall",
+        "name": "Comune di Agnadello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.560599,
+          45.4459912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3113127825",
+      "properties": {
+        "@id": "node/3113127825",
+        "amenity": "townhall",
+        "name": "Comune di Pieranica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6109689,
+          45.4252629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3113284526",
+      "properties": {
+        "@id": "node/3113284526",
+        "amenity": "townhall",
+        "name": "Comune di Quintano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6195466,
+          45.4201989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152328749",
+      "properties": {
+        "@id": "node/3152328749",
+        "amenity": "townhall",
+        "name": "Comune di Senago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1173279,
+          45.5752695
+        ]
+      }
+    }
+  ]
+}

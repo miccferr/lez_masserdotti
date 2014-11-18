@@ -5,10 +5,9 @@
 
 ## Software per la lezione:
 
-Scaricare ed installare i seguenti software:
-<!-- [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#darwin) -->
-- Suite per disegno cartografico digitale: [TileMill](https://www.mapbox.com/tilemill/)
-- Editor di testo : [Sublime Text](http://www.sublimetext.com/)
+Scaricare ed installare i seguenti software:  
+- Suite per disegno cartografico digitale: [TileMill](https://www .mapbox.com/tilemill/)  e [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#darwin)  
+- Editor di testo : [Sublime Text](http://www.sublimetext.com/)  
 - Stack MAMP: a scelta tra [AMPPS](http://ampps.com/download) e [MAMP](http://www.mamp.info/en/)
 
 #### NOTA: 
@@ -25,18 +24,24 @@ Una versione di Python è già installata di default ed accessibile tramite term
 Nel caso ci fossero problemi con l'installazione potete contattarmi seguente indirizzo email: <mic.ferretti@gmail.com>
 
 
-## Presentazione:
-- [Web-mapping fundamentals](https://maptimeatx.github.io/web-mapping-fundamentals/#124), fonte: [maptimeATX](http://www.meetup.com/MaptimeATX/) 
+## Lezione:
+- [OSM101](http://maptime.io/osm-101/), fonte [maptimeHQ](http://maptime.io/lessons-resources/)
+- [Web-mapping fundamentals](https://maptimeatx.github.io/web-mapping-fundamentals/#0), fonte: [maptimeATX](http://www.meetup.com/MaptimeATX/) 
 
+## Dati:
+Tutti i dati per la lezione si trovano all'interno della cartella data in questa repository (scaricare direttamente tutta la repo come file zippato o clonarla).
 
 
 ## Riferimenti *:
 
 #### Cartografia Digitale
-- Intro a [TileMill](https://www.mapbox.com/tilemill/docs/crashcourse/introduction/) (predecessore di Mapbox Studio) 
+- [Maptime!](http://maptime.io/)
+- Intro a [TileMill](https://www.mapbox.com/tilemill/docs/crashcourse/introduction/) 
 - Intro a [Mapbox Studio](https://www.mapbox.com/mapbox-studio/style-quickstart/)
 
 #### OpenstreetMap
+- [Presentazione](http://www.slideshare.net/napo/openstreetmap-verso-matera-2019) di Maurizio Napolitano ad OSMit2014
+- [Presentazione](https://cortesimone.github.io/slide-opengeodata-roma-2014/#/) di Napo e Simone Cortesi ad OpenGeodata Roma 2014
 - [OSM.org](http://www.openstreetmap.org/)
 - Sito della Comunità Italiana: [OSMit](http://openstreetmap.it/) 
 - OpenStreetMap fundamentals: [Learn OSM](http://learnosm.org/en/)
@@ -62,6 +67,8 @@ Nel caso ci fossero problemi con l'installazione potete contattarmi seguente ind
 ![](map_projections.png)  
 Fonte: [xkcd](https://xkcd.com/977/)
 
+<!--aggiungo laghi e batimetria da natural hearth (via add layer - mapbox)
+aggiungo strade che gli do io da geojson-->
 
 
 
