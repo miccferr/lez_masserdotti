@@ -9,6 +9,8 @@ Scaricare ed installare i seguenti software:
 <!-- [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#darwin) -->
 - Suite per disegno cartografico digitale: [TileMill](https://www.mapbox.com/tilemill/)
 - Editor di testo : [Sublime Text](http://www.sublimetext.com/)
+- Stack MAMP: a scelta tra [AMPPS](http://ampps.com/download) e [MAMP](http://www.mamp.info/en/)
+
 #### NOTA: 
 Di seguito sono riporati ulteriori strumenti (opzionali) per seguire in maniera completa il workflow esposto durante la lezione.  
 Per i più volenterosi il consiglio è quindi di scaricare ed installare anche i seguenti:  
