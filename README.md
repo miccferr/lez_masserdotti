@@ -6,16 +6,16 @@
 ## Software per la lezione:
 
 Scaricare ed installare i seguenti software:  
-- Suite per disegno cartografico digitale: [TileMill](https://www .mapbox.com/tilemill/)  e [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#darwin)  
+- Suite per disegno cartografico digitale: [TileMill](https://www .mapbox.com/tilemill/)  *e* [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#darwin)  
 - Editor di testo : [Sublime Text](http://www.sublimetext.com/)  
-- Stack MAMP: a scelta tra [AMPPS](http://ampps.com/download) e [MAMP](http://www.mamp.info/en/)
+- Stack MAMP: a scelta tra [AMPPS](http://ampps.com/download) *o* [MAMP](http://www.mamp.info/en/)
 
 #### NOTA: 
 Di seguito sono riporati ulteriori strumenti (opzionali) per seguire in maniera completa il workflow esposto durante la lezione.  
 Per i più volenterosi il consiglio è quindi di scaricare ed installare anche i seguenti:  
 
 - **Utenti Windows**
-	- [Python](https://www.python.org/downloads/windows/) (versione 2.7). Scaricare l'installer (.exe), lanciarlo ed installare il tutto. Ricordarsi poi di linkare l'interprete python nel [FILE PATH!](https://docs.python.org/2/using/windows.html)  
+	- [Python](https://www.python.org/downloads/windows/) (versione 2.7.8). Scaricare l'installer (.exe), lanciarlo ed installare il tutto. Ricordarsi poi di linkare l'interprete python nel [FILE PATH!](https://docs.python.org/2/using/windows.html)  
 	- [MBUtil](https://github.com/mapbox/mbutil)
 
 - **Utenti Mac/Linux**  
@@ -25,7 +25,7 @@ Nel caso ci fossero problemi con l'installazione potete contattarmi seguente ind
 
 
 ## Lezione:
-- [OSM101](http://maptime.io/osm-101/), fonte [maptimeHQ](http://maptime.io/lessons-resources/)
+- [OSM101](http://maptime.io/osm-101/), fonte: [maptimeHQ](http://maptime.io/lessons-resources/)
 - [Web-mapping fundamentals](https://maptimeatx.github.io/web-mapping-fundamentals/#0), fonte: [maptimeATX](http://www.meetup.com/MaptimeATX/) 
 
 ## Dati:
