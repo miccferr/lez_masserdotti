@@ -1,3 +1,4 @@
+
 # Lezione Web-Mapping
 
 #### CI "Progettazione e Rappresentazione Urbanistica" [Garda - Villa, A.A. 2014-2015 ]
@@ -6,7 +7,7 @@
 ## Software per la lezione:
 
 Scaricare ed installare i seguenti software:  
-- Suite per disegno cartografico digitale: [TileMill](https://www .mapbox.com/tilemill/)  *e* [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#darwin)  
+- Suite per disegno cartografico digitale: [TileMill](https://www.mapbox.com/tilemill/)  *e* [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#darwin)  
 - Editor di testo : [Sublime Text](http://www.sublimetext.com/)  
 - Stack MAMP: a scelta tra [AMPPS](http://ampps.com/download) *o* [MAMP](http://www.mamp.info/en/)
 
