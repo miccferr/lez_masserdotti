@@ -27,6 +27,7 @@ Nel caso ci fossero problemi con l'installazione potete contattarmi seguente ind
 
 ## Lezione:
 - [OSM101](http://maptime.io/osm-101/), fonte: [maptimeHQ](http://maptime.io/lessons-resources/)
+- **NEW** [A dive into OSM](http://www.slideshare.net/napo/openstreetmap-an-introduction-for-the-mappathon-piemonte-visual-contest), fonte: [Napo](https://twitter.com/napo)
 - [Web-mapping fundamentals](https://maptimeatx.github.io/web-mapping-fundamentals/#0), fonte: [maptimeATX](http://www.meetup.com/MaptimeATX/) 
 
 ## Dati:
