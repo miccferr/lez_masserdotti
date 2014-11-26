@@ -27,8 +27,9 @@ Nel caso ci fossero problemi con l'installazione potete contattarmi seguente ind
 
 ## Lezione:
 - [OSM101](http://maptime.io/osm-101/), fonte: [maptimeHQ](http://maptime.io/lessons-resources/)
-- **NEW** [A dive into OSM](http://www.slideshare.net/napo/openstreetmap-an-introduction-for-the-mappathon-piemonte-visual-contest), fonte: [Napo](https://twitter.com/napo)
 - [Web-mapping fundamentals](https://maptimeatx.github.io/web-mapping-fundamentals/#0), fonte: [maptimeATX](http://www.meetup.com/MaptimeATX/) 
+- **NEW** [A dive into OSM](http://www.slideshare.net/napo/openstreetmap-an-introduction-for-the-mappathon-piemonte-visual-contest), fonte: [Napo](https://twitter.com/napo)  
+- [OpenStreetMap Workshop](http://stefanosabatini.eu/slides/20141122_osmworkshop.html#/), fonte: [Sabas](https://twitter.com/__sabas)  
 
 ## Dati:
 Tutti i dati per la lezione si trovano all'interno della cartella data in questa repository (scaricare direttamente tutta la repo come file zippato o clonarla).
