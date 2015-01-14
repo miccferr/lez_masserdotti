@@ -1,7 +1,7 @@
 
 # Lezione Web-Mapping
 
-#### "Final Synthesys Design Studio" [Masserdotti, A.A. 2014-2015 ]
+#### "Final Synthesis Design Studio" [Masserdotti, A.A. 2014-2015 ]
 
 ## Software per la lezione:
 
