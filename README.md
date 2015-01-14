@@ -19,7 +19,7 @@ Nel caso ci fossero problemi con l'installazione potete contattarmi al seguente 
 - [A dive into OSM](http://www.slideshare.net/napo/openstreetmap-an-introduction-for-the-mappathon-piemonte-visual-contest), fonte: [Napo](https://twitter.com/napo)  
 
 ### Web-mapping:
-- [Web-maps-101](http://maptime.io/milan/resources/web-maps-101/index.html#0), fonte:[maptimeMI](http://maptime.io/milan)
+- [Web-maps-101](http://maptime.io/milan/resources/web-maps-101/index.html#0), fonte: [maptimeMI](http://maptime.io/milan)
 - [Web-mapping fundamentals](https://maptimeatx.github.io/web-mapping-fundamentals/#0), fonte: [maptimeATX](http://www.meetup.com/MaptimeATX/) 
 
 
