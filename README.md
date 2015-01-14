@@ -1,39 +1,30 @@
 
 # Lezione Web-Mapping
 
-#### CI "Progettazione e Rappresentazione Urbanistica" [Garda - Villa, A.A. 2014-2015 ]
-
+#### "Final Synthesys Design Studio" [Masserdotti, A.A. 2014-2015 ]
 
 ## Software per la lezione:
 
 Scaricare ed installare i seguenti software:  
-- Suite per disegno cartografico digitale: [TileMill](https://www.mapbox.com/tilemill/)  *e* [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#darwin)  
+- IDE per disegno cartografico digitale: [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#darwin)  
 - Editor di testo : [Sublime Text](http://www.sublimetext.com/)  
-- Stack MAMP: a scelta tra [AMPPS](http://ampps.com/download) *o* [MAMP](http://www.mamp.info/en/)
+- Ambiente Server locale: a scelta tra [MAMP](http://www.mamp.info/en/) *o* [AMPPS](http://ampps.com/download)
 
-#### NOTA: 
-Di seguito sono riporati ulteriori strumenti (opzionali) per seguire in maniera completa il workflow esposto durante la lezione.  
-Per i più volenterosi il consiglio è quindi di scaricare ed installare anche i seguenti:  
-
-- **Utenti Windows**
-	- [Python](https://www.python.org/downloads/windows/) (versione 2.7.8). Scaricare l'installer (.exe), lanciarlo ed installare il tutto. Ricordarsi poi di linkare l'interprete python nel [FILE PATH!](https://docs.python.org/2/using/windows.html)  
-	- [MBUtil](https://github.com/mapbox/mbutil)
-
-- **Utenti Mac/Linux**  
-Una versione di Python è già installata di default ed accessibile tramite terminale(bash). Installare solamente [MBUtil](https://github.com/mapbox/mbutil).
-
-Nel caso ci fossero problemi con l'installazione potete contattarmi seguente indirizzo email: <mic.ferretti@gmail.com>
+Nel caso ci fossero problemi con l'installazione potete contattarmi al seguente indirizzo email: <mic.ferretti@gmail.com>
 
 
 ## Lezione:
-- [OSM101](http://maptime.io/osm-101/), fonte: [maptimeHQ](http://maptime.io/lessons-resources/)
+### OSM:
+
+- [A dive into OSM](http://www.slideshare.net/napo/openstreetmap-an-introduction-for-the-mappathon-piemonte-visual-contest), fonte: [Napo](https://twitter.com/napo)  
+
+### Web-mapping:
+- [Web-maps-101](http://maptime.io/milan/resources/web-maps-101/index.html#0), fonte:[maptimeMI](http://maptime.io/milan)
 - [Web-mapping fundamentals](https://maptimeatx.github.io/web-mapping-fundamentals/#0), fonte: [maptimeATX](http://www.meetup.com/MaptimeATX/) 
-- **NEW** [A dive into OSM](http://www.slideshare.net/napo/openstreetmap-an-introduction-for-the-mappathon-piemonte-visual-contest), fonte: [Napo](https://twitter.com/napo)  
-- [OpenStreetMap Workshop](http://stefanosabatini.eu/slides/20141122_osmworkshop.html#/), fonte: [Sabas](https://twitter.com/__sabas)  
+
 
 ## Dati:
 Tutti i dati per la lezione si trovano all'interno della cartella data in questa repository (scaricare direttamente tutta la repo come file zippato o clonarla).
-
 
 ## Riferimenti *:
 
@@ -43,6 +34,8 @@ Tutti i dati per la lezione si trovano all'interno della cartella data in questa
 - Intro a [Mapbox Studio](https://www.mapbox.com/mapbox-studio/style-quickstart/)
 
 #### OpenstreetMap
+- [OSM101](http://maptime.io/osm-101/), fonte: [maptimeHQ](http://maptime.io/lessons-resources/)
+- [OpenStreetMap Workshop](http://stefanosabatini.eu/slides/20141122_osmworkshop.html#/), fonte: [Sabas](https://twitter.com/__sabas)
 - [Presentazione](http://www.slideshare.net/napo/openstreetmap-verso-matera-2019) di Maurizio Napolitano ad OSMit2014
 - [Presentazione](https://cortesimone.github.io/slide-opengeodata-roma-2014/#/) di Napo e Simone Cortesi ad OpenGeodata Roma 2014
 - [OSM.org](http://www.openstreetmap.org/)
@@ -65,7 +58,7 @@ Tutti i dati per la lezione si trovano all'interno della cartella data in questa
 .* Elenco assolutamente non esaustivo. 
 
 
-## Love Cartography!
+## Fuck Yeah Cartography!
 
 ![](map_projections.png)  
 Fonte: [xkcd](https://xkcd.com/977/)
